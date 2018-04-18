@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="MyTestGitHubApp">0fa10aa5db2113005ec87e7dbf9619fe</application>
+        <filter/>
+        <name>GitHubTab1</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_162963_mytestgit.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-18 13:16:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4fa14aa5db2113005ec87e7dbf961900</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GitHubTab1</sys_name>
+        <sys_package display_value="MyTestGitHubApp" source="x_162963_mytestgit">82a1ca21db2113005ec87e7dbf9619c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyTestGitHubApp">82a1ca21db2113005ec87e7dbf9619c7</sys_scope>
+        <sys_update_name>sys_ui_module_4fa14aa5db2113005ec87e7dbf961900</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-18 13:16:37</sys_updated_on>
+        <table>x_162963_mytestgit_githubtab1</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
